@@ -1,0 +1,1 @@
+This project contains backend rest apis developed using node with Express JS. These rest api methods interact with MongoDB for data storage and retrieval.Restricted api methods are accessible based on the jwt token submitted by the front end web application.
